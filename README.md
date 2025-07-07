@@ -22,8 +22,8 @@ After training, the model checkpoints will be saved in the `snapshot/` directory
 
 ### 📦 Pretrained Models
 
-We also provide several pretrained checkpoints for direct evaluation.  
-You can download them from [Google Drive](https://xxxx).
+We also provide several pre-trained checkpoints for direct evaluation.  
+You can download them from [Google Drive](https://drive.google.com/file/d/1BBMJ1v3mXMu9GWjz2aAOre4DIQqMJyGU/view?usp=sharing).
 
 ## 🔍 Testing
 
